@@ -35,3 +35,14 @@ Predicted rents for the test set:
 [11426.0063677  20326.38151887]
 
 Process finished with exit code 0
+
+dataset
+size_sqft,bedrooms,age,rent
+500,1,10,8000
+650,2,8,10000
+800,2,5,13000
+900,3,3,16000
+1100,3,2,19000
+1200,3,1,21000
+1400,4,0,25000
+1500,4,,27000
